@@ -1,7 +1,9 @@
+---
 # DRAGONS data reduction (Jupyter Notebooks)
 
 This repository has Jupyter Notebook examples of data reduction for the Gemini Observatory instruments. The procedures were written using the [DRAGONS' Application Program Interface (API)](https://gmosimg-drtutorial.readthedocs.io/en/v2.1.1/03_api_reduction.html) for Python.
 
+---
 ## Before you try the notebooks:
 
 - [x] Install DRAGONS by creating a anaconda environment. Detailed instructions can be found on the [Gemini Data Processing Software](https://www.gemini.edu//observing/phase-iii/understanding-and-processing-data/Data-Processing-Software) webpage.
@@ -25,6 +27,7 @@ This repository has Jupyter Notebook examples of data reduction for the Gemini O
    jupyter notebook [name].ipynb
    ```
 
+---
 ## Current notebooks available:
 
 ### GMOS_IM_FIELD.ipynb
@@ -35,9 +38,11 @@ GMOS imaging (i-band) of a stellar field. This is extracted from the Gemini/DRAG
 
 GMOS imaging (g-band) of the elliptical galaxy NGC5018.  Dataset includes Biases, Twilight Flats, and Science frames. Link to the [Jupyter notebook](GMOS_IM_NGC5018.ipynb) or [direct download](https://raw.githubusercontent.com/usngo/DRAGONS/main/GMOS_IM_NGC5018.ipynb).
 
+---
 ## Need help?
 
 Problems, comments, suggestions, and/or need help with any of the above? You can contact the US NGO members via our [Portal](http://ast.noao.edu/csdc/usngo), [Twitter](https://twitter.com/usngo), or submit a pull request on github.
 
 Follow us on Twitter! <a href="https://twitter.com/usngo" target="_blank"><img src="https://badgen.net/twitter/follow/usngo"></a>
 
+---
