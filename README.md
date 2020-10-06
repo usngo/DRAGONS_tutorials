@@ -23,7 +23,7 @@ This repository has Jupyter Notebook examples of data reduction for the Gemini O
 ## Current examples available and tested:
 
 - [GMOS_IM_FIELD.ipynb](https://github.com/usngo/DRAGONS/blob/main/GMOS_IM_FIELD.ipynb): GMOS imaging (i-band) of a stellar field. this is exactly the same data and procedure as provided by the Gemini/DRAGONS tutorial.
-- [GMOS_IM_NGC5018.ipynb](https://github.com/usngo/DRAGONS/blob/main/GMOS_IM_NGC5018.ipynb): GMOS imaging (g-band) of the elliptical galaxu NGC5018
+- [GMOS_IM_NGC5018.ipynb](https://github.com/usngo/DRAGONS/blob/main/GMOS_IM_NGC5018.ipynb): GMOS imaging (g-band) of the elliptical galaxy NGC5018
 
 ---
 Problems, comments, and/or suggestions? You can contact the US NGO members via our [Portal](http://ast.noao.edu/csdc/usngo), [twitter](https://twitter.com/usngo), or submit a pull request.
