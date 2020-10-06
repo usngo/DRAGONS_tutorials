@@ -7,11 +7,15 @@ This repository has Jupyter Notebook examples of data reduction for the Gemini O
 - [x] Install DRAGONS by creating a anaconda environment. Details can be found on the [Gemini Data Processing Software](https://www.gemini.edu//observing/phase-iii/understanding-and-processing-data/Data-Processing-Software) webpage.
 - [x] Add the Conda DRAGONS environment to your Jupyter notebook. The following commands were tested and worked:
 
-   `conda install -n dragons nb_conda_kernels ipykernel`
+   ```
+   conda install -n dragons nb_conda_kernels ipykernel
+   ```
    
 - [x] The notebooks will download the raw (public) data directly from the [Gemini Observatory Archive](https://archive.gemini.edu/searchform). For that, you'll need the `wget` python package:
 
-   `conda install -n dragons wget`
+   ```
+   conda install -n dragons wget
+   ```
 
 - [x] Once you've downloaded one of the notebooks, on your terminal:
 
