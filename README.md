@@ -26,4 +26,4 @@ This repository has Jupyter Notebook examples of data reduction for the Gemini O
 - [GMOS_IM_NGC5018.ipynb](https://github.com/usngo/DRAGONS/blob/main/GMOS_IM_NGC5018.ipynb): GMOS imaging (g-band) of the elliptical galaxy NGC5018
 
 ---
-Problems, comments, and/or suggestions? You can contact the US NGO members via our [Portal](http://ast.noao.edu/csdc/usngo), [twitter](https://twitter.com/usngo), or submit a pull request.
+Problems, comments, and/or suggestions? You can contact the US NGO members via our [Portal](http://ast.noao.edu/csdc/usngo), [Twitter](https://twitter.com/usngo), or submit a pull request.
