@@ -37,6 +37,5 @@ GMOS imaging (g-band) of the elliptical galaxy NGC5018.  Dataset includes Biases
 ---
 Problems, comments, and/or suggestions? You can contact the US NGO members via our [Portal](http://ast.noao.edu/csdc/usngo), [Twitter](https://twitter.com/usngo), or submit a pull request. 
 
----
-<a href="https://twitter.com/usngo" target="_blank"><img src="https://badgen.net/twitter/follow/usngo"></a>
+Follow us on Twitter! <a href="https://twitter.com/usngo" target="_blank"><img src="https://badgen.net/twitter/follow/usngo"></a>
 
