@@ -4,8 +4,9 @@ This repository has Jupyter Notebook examples of data reduction for the Gemini O
 
 ## Before you try the notebooks:
 
-- [x] Install DRAGONS by creating a anaconda environment. Details can be found on the [Gemini Data Processing Software](https://www.gemini.edu//observing/phase-iii/understanding-and-processing-data/Data-Processing-Software) webpage.
-- [x] Add the Conda DRAGONS environment to your Jupyter notebook. The following commands were tested and worked:
+- [x] Install DRAGONS by creating a anaconda environment. Detailed instructions can be found on the [Gemini Data Processing Software](https://www.gemini.edu//observing/phase-iii/understanding-and-processing-data/Data-Processing-Software) webpage.
+
+- [x] Add the Conda DRAGONS environment to your Jupyter notebook by installing the following packages:
 
    ```
    conda install -n dragons nb_conda_kernels ipykernel
