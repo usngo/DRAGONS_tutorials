@@ -6,21 +6,21 @@ This repository has Jupyter Notebook examples of data reduction for the Gemini O
 ---
 ## Before you try the notebooks:
 
-- [x] Install DRAGONS by creating an anaconda environment. Detailed instructions can be found on the [Gemini Data Processing Software](https://www.gemini.edu//observing/phase-iii/understanding-and-processing-data/Data-Processing-Software) webpage.
+- [x] Install the Python-based DRAGONS platform by creating an anaconda environment. Detailed instructions can be found on the [Gemini Data Processing Software](https://www.gemini.edu//observing/phase-iii/understanding-and-processing-data/Data-Processing-Software) webpage.
 
-- [x] At this point, you will have DRAGONS installed. To run the notebooks in this repository, you will have to allow the Conda DRAGONS environment to run on your Jupyter notebooks. You can do that by installing the packages listed below. From your bash terminal:
+- [x] At this point, you will have DRAGONS installed. To run the notebooks in the US NGO repository, you will have to allow the Conda DRAGONS environment to run on your Jupyter notebooks. You can do that by installing the packages listed below. From your bash terminal:
 
    ```
    conda install -n dragons nb_conda_kernels ipykernel
    ```
    
-- [x] The Jupyter Notebooks will download the raw (public) data directly from the [Gemini Observatory Archive](https://archive.gemini.edu/searchform). For that, you'll need the `wget` python package:
+- [x] The Jupyter Notebooks are configured to download the raw (public) data directly from the [Gemini Observatory Archive](https://archive.gemini.edu/searchform). For that, you'll need the `wget` python package installed. From your bash terminal:
 
    ```
    conda install -n dragons wget
    ```
 
-- [x] Download one of the files listed on the [Current notebooks available](#current-notebooks-available) section. Once the download is complete, start a bash terminal, go to the folder where you have downloaded the file, and type:
+- [x] Download one of the files listed on the [Current notebooks available](#current-notebooks-available) section. Once the download is completed, start a bash terminal, go to the folder where you have downloaded the file, and type:
 
    ```
    conda activate dragons
@@ -54,9 +54,9 @@ GSAOI imaging (K-short) of a field around NGC5128. This is extracted from the Ge
 ---
 ## Need help?
 
-Problems, comments, suggestions, and/or need help with any of the above? You can contact the US NGO members via our [Portal](http://ast.noao.edu/csdc/usngo), [Twitter](https://twitter.com/usngo), or submit a pull request on github.
+Problems, comments, suggestions, and/or need help with setting up and running the Jupyter notebooks? You can contact the US NGO members via our [Portal](http://ast.noao.edu/csdc/usngo), [Twitter](https://twitter.com/usngo), or submit a *New issue* through github.
 
-Gemini helpdesk
+For assistance with DRAGONS installation and procedures, please submit a ticket to the [Gemini Helpdesk](https://www.gemini.edu/observing/helpdesk/submit-general-helpdesk-request) (Partner Country: US; Topic: DRAGONS).
 
 Follow us on Twitter! <a href="https://twitter.com/usngo" target="_blank"><img src="https://badgen.net/twitter/follow/usngo"></a>
 
