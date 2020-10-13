@@ -44,6 +44,10 @@ GMOS imaging (g-band) of the elliptical galaxy NGC5018.  Dataset includes Biases
 
 GSAOI imaging (K-short) of a field around NGC5128. This is extracted from the Gemini/DRAGONS GSAOI tutorial, Section 3. Dataset includes Flats, Standard Star, and Science frames. Link to the [Jupyter notebook](GSAOI_NGC5128.ipynb) or [direct download](https://raw.githubusercontent.com/usngo/DRAGONS/main/GSAOI_NGC5128.ipynb) (right-click &#8594; Save Link As...).
 
+### NIRI_SN2014J.ipynb
+
+NIRI imaging (K-prime) of SN2014J. This is extracted from the Gemini/DRAGONS NIRI tutorial, Section 4. Dataset includes Flats, Standard Star, Darks, and Science frames. Link to the [Jupyter notebook](NIRI_SN2014J.ipynb) or [direct download](https://raw.githubusercontent.com/usngo/DRAGONS/main/NIRI_SN2014J.ipynb) (right-click &#8594; Save Link As...).
+
 ---
 ## Additional resources
 
