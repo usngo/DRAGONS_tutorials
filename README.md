@@ -44,6 +44,10 @@ GMOS imaging (i-band) of a stellar field. This is extracted from the Gemini/DRAG
 
 GMOS imaging (g-band) of the elliptical galaxy NGC5018.  Dataset includes Biases, Twilight Flats, and Science frames. Link to the [Jupyter notebook](GMOS_IM_NGC5018.ipynb) or [direct download](https://raw.githubusercontent.com/usngo/DRAGONS/main/GMOS_IM_NGC5018.ipynb) (right-click &#8594; Save Link As...).
 
+### GNIRS_IM_GRB120116A.ipynb
+
+GNIRS imaging (J-band - point source through keyhole) of GRB120116A. This is extracted from the Gemini/DRAGONS GNIRS tutorial, Example 1-B. Dataset includes Flats, Darks, and Science frames. Link to the [Jupyter notebook](GNIRS_IM_GRB120116A.ipynb) or [direct download](https://raw.githubusercontent.com/usngo/DRAGONS/main/GNIRS_IM_GRB120116A.ipynb) (right-click &#8594; Save Link As...).
+
 ### GSAOI_NGC5128.ipynb
 
 GSAOI imaging (K-short) of a field around NGC5128. This is extracted from the Gemini/DRAGONS GSAOI tutorial, Section 3. Dataset includes Flats, Standard Star, and Science frames. Link to the [Jupyter notebook](GSAOI_NGC5128.ipynb) or [direct download](https://raw.githubusercontent.com/usngo/DRAGONS/main/GSAOI_NGC5128.ipynb) (right-click &#8594; Save Link As...).
