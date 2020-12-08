@@ -1,7 +1,7 @@
 ---
 # DRAGONS data reduction (Jupyter Notebooks)
 
-This repository has Jupyter Notebook examples of data reduction for the Gemini Observatory instruments. They were written using the [DRAGONS' Application Program Interface (API)](https://gmosimg-drtutorial.readthedocs.io/en/v2.1.1/03_api_reduction.html) for Python.
+This repository has Jupyter Notebook examples of data reduction for the Gemini Observatory instruments. They were written using the [DRAGONS' Application Program Interface (API)](https://dragons-recipe-system-users-manual.readthedocs.io/en/v2.1.1/appendices/full_api_example.html) for Python.
 
 ---
 ## Before you try the notebooks:
