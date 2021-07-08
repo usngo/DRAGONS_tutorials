@@ -27,7 +27,7 @@ This repository has Jupyter Notebook examples of data reduction for the Gemini O
    jupyter notebook [name].ipynb
    ```
    
-*Note: at this stage, a browser window will open and the Jupyter notebook will be loaded. On the top right part of the window, you should see* `Python [conda env:dragons]` *or something similar, ensuring that the DRAGONS environment is loaded.*
+*Note: at this stage, a browser window will open and the Jupyter notebook will be loaded. On the top right part of the window, you should see* `Python [conda env:dragons]` *or something similar, ensuring that the correct DRAGONS environment is loaded.*
 
 ---
 ## Current notebooks available:
